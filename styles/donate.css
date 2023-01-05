@@ -1,5 +1,132 @@
-.header{
-    background: #FFF8F3;
-    background-image: url(../images/donation10.jpg);
+* {
+    margin-top: 0;
+    font-family: inter;
 
 }
+
+.header {
+    width: 1200px;
+    height: 628px;
+    left: 3px;
+    top: 0px;
+    background: #FFF8F3;
+    background-image: url('../images/donation5.jpg');
+    background-repeat: no-repeat;
+
+}
+
+.banner {
+
+    padding: 164px 209px 327px 205px;
+    text-align: center;
+}
+
+.banner-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 20px;
+}
+
+
+.banner-description {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 0 120px 0 120px;
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #FF5959;
+    border-radius: 5px;
+    padding: 16px 12px;
+    gap: 8px;
+    border: none;
+
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin: 0 255px;
+    margin-bottom: 50px;
+}
+
+.button {
+    text-align: center;
+
+}
+
+.btn-section {
+
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    border: none;
+    color: #707070;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 44px 24px;
+    margin-right: 22px;
+
+}
+
+#change {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    color: #FF5959;
+}
+
+.other-amount {
+    text-align: center;
+    color: #B3B3B3;
+    margin-top: 60px;
+    margin-bottom: 9.5px;
+}
+
+.donate-plan {
+    text-align: center;
+}
+
+.donate-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.button-n {
+    text-align: center;
+}
+
+.btn {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #FF5959;
+    border-radius: 5px;
+    padding: 16px 12px;
+    gap: 8px;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 130px;
+}
+
+.donate-discription {
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 255px;
+    margin-bottom: 50px;
+}
+
